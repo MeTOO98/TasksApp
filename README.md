@@ -28,7 +28,7 @@ This script allows you to add, list, mark as completed, and remove tasks directl
 Clone the repository:
 
 ```bash
-git clone https://github.com/MeTOO98/linux_Projects/tree/main/TasksApp
+git clone https://github.com/MeTOO98/TasksApp.git
 cd TasksApp
 chmod +x TasksApp.sh
 ```
