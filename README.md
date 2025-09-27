@@ -19,7 +19,7 @@ This script allows you to add, list, mark as completed, and remove tasks directl
 
 * A Unix-like system (Linux, macOS, WSL on Windows).
 * `bash` shell (>= v4 recommended).
-* Standard tools: `awk`, `grep`, `date`, `cat`, `mv`.
+* Standard tools: `awk`, `grep`, `date`, `cat`.
 
 ---
 
